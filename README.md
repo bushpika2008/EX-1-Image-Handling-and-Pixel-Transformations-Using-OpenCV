@@ -329,10 +329,15 @@ plt.axis("on")
 
 
 #2. Image with a line drawn from the top-left to the bottom-right.
+
+
 <img width="388" height="567" alt="image" src="https://github.com/user-attachments/assets/cf72eb84-7858-4b09-9fe0-9dd6ea7ad674" />
 
 
 #3. Image with a circle at the center.
+
+
+
 <img width="381" height="551" alt="image" src="https://github.com/user-attachments/assets/bec12045-978b-4df8-af3c-40c87fd61891" />
 
 
@@ -344,6 +349,10 @@ plt.axis("on")
 
 
 #5. Image with the text "OpenCV Drawing".
+
+
+
+
 <img width="382" height="537" alt="image" src="https://github.com/user-attachments/assets/fe0f80eb-20cc-4911-bceb-dd0db39c1e2d" />
 
 
@@ -366,6 +375,10 @@ plt.axis("on")
 
 
 #8. Pixel value displayed and a white region added to the image.
+
+
+
+
 <img width="398" height="551" alt="image" src="https://github.com/user-attachments/assets/ce33204f-caf7-4101-98f2-4fc431cc3744" />
 
 
@@ -373,16 +386,25 @@ plt.axis("on")
 
 #9. Image resized to half its original dimensions.
 
+
+
+
 <img width="462" height="547" alt="image" src="https://github.com/user-attachments/assets/1ec3dbde-7e4a-4a76-8841-77184140a2a6" />
 
 
 
 #10. Cropped region of interest displayed.
+
+
+
 <img width="390" height="550" alt="image" src="https://github.com/user-attachments/assets/acee8da6-230b-433f-88d3-f740defdf44d" />
 
 
 #11. Horizontally flipped image displayed.
+
+
 <img width="392" height="555" alt="image" src="https://github.com/user-attachments/assets/fc06318c-d10f-4971-9fd9-9ea185c12288" />
+
 
 
 #12. Vertically flipped image displayed.
