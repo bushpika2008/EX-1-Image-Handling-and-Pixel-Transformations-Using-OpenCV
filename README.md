@@ -1,7 +1,6 @@
 # Experiment 1: Image Handling and Pixel Transformations Using OpenCV
 # Name: BUSHPIKA C  
 # Register Number: 212225230038
-# Experiment: Image Handling and Pixel Transformations Using OpenCV
 
 ---
 
