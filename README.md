@@ -321,20 +321,20 @@ plt.axis("on")
 
 #The following outputs are obtained:
 
-#1. Original image displayed using OpenCV and Matplotlib.
+# 1. Original image displayed using OpenCV and Matplotlib.
 
 <img width="426" height="553" alt="image" src="https://github.com/user-attachments/assets/66819736-bdc1-4b68-a3b5-74551227c84a" />
 
 
 
 
-#2. Image with a line drawn from the top-left to the bottom-right.
+# 2. Image with a line drawn from the top-left to the bottom-right.
 
 
 <img width="388" height="567" alt="image" src="https://github.com/user-attachments/assets/cf72eb84-7858-4b09-9fe0-9dd6ea7ad674" />
 
 
-#3. Image with a circle at the center.
+# 3. Image with a circle at the center.
 
 
 
@@ -342,13 +342,13 @@ plt.axis("on")
 
 
 
-#4. Image with a rectangle around its boundary.
+# 4. Image with a rectangle around its boundary.
 
 
 <img width="381" height="547" alt="image" src="https://github.com/user-attachments/assets/68faedfc-e6b1-4146-a5e8-3e2bc244b496" />
 
 
-#5. Image with the text "OpenCV Drawing".
+# 5. Image with the text "OpenCV Drawing".
 
 
 
@@ -357,7 +357,7 @@ plt.axis("on")
 
 
 
-#6. HSV, grayscale, and YCrCb color space conversions.
+# 6. HSV, grayscale, and YCrCb color space conversions.
 
 <img width="362" height="562" alt="image" src="https://github.com/user-attachments/assets/7a4b6977-12b0-4ba5-8b14-b436641179a2" />
 
@@ -368,13 +368,13 @@ plt.axis("on")
 <img width="358" height="557" alt="image" src="https://github.com/user-attachments/assets/1c99b390-89a0-4885-9b17-2afd0f34b717" />
 
 
-#7. Image converted from HSV back to RGB.
+# 7. Image converted from HSV back to RGB.
 
 
 <img width="381" height="547" alt="image" src="https://github.com/user-attachments/assets/69c6a8dc-88b2-40bf-8b57-4fad0085baf4" />
 
 
-#8. Pixel value displayed and a white region added to the image.
+# 8. Pixel value displayed and a white region added to the image.
 
 
 
@@ -384,7 +384,7 @@ plt.axis("on")
 
 
 
-#9. Image resized to half its original dimensions.
+# 9. Image resized to half its original dimensions.
 
 
 
@@ -393,21 +393,21 @@ plt.axis("on")
 
 
 
-#10. Cropped region of interest displayed.
+# 10. Cropped region of interest displayed.
 
 
 
 <img width="390" height="550" alt="image" src="https://github.com/user-attachments/assets/acee8da6-230b-433f-88d3-f740defdf44d" />
 
 
-#11. Horizontally flipped image displayed.
+# 11. Horizontally flipped image displayed.
 
 
 <img width="392" height="555" alt="image" src="https://github.com/user-attachments/assets/fc06318c-d10f-4971-9fd9-9ea185c12288" />
 
 
 
-#12. Vertically flipped image displayed.
+# 12. Vertically flipped image displayed.
 
 <img width="438" height="590" alt="image" src="https://github.com/user-attachments/assets/9c2d6456-ffeb-41a6-8a44-0de7b57613a3" />
 
